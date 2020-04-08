@@ -1,7 +1,3 @@
----
-layout: page
-title: "Raymond Barrett"
----
 <html>
   <head>
     <meta charset="utf-8">
