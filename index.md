@@ -8,7 +8,7 @@ title: "Raymond Barrett"
   <head>
     <meta charset="utf-8">
     <title>page.title</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="_site/assets/css/syle.scss">
   </head>
   <body>
     <h1>Hello World!</h1>
