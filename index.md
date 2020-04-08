@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>page.title</title>
+    <title>This is my website</title>
     <link rel="stylesheet" type="text/scss" href="css/style.css">
   </head>
   <body>
