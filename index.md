@@ -6,7 +6,7 @@ title: "Raymond Barrett"
   <head>
     <meta charset="utf-8">
     <title>page.title</title>
-    <line rel="stylesheet" type="css" href="_site/assets/css/style.scss"
+    <line rel="stylesheet" type="text/scss" href="css/style.css"
   </head>
   <body>
      <h1>Hello World!</h1>
