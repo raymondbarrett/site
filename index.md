@@ -3,11 +3,12 @@ layout: page
 title: "Raymond Barrett"
 ---
 
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
     <title>page.title</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
     <h1>Hello World!</h1>
